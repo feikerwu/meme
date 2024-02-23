@@ -1,0 +1,10 @@
+{
+  "name": "@gtea/meme",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "ethers": "^6.11.1",
+    "release-it": "^17.1.1"
+  }
+}
