@@ -1,6 +1,10 @@
 {
   "name": "@gtea/meme",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publishConfig": {
+    "registry": "https://github.com/feikerwu/meme"
+  },
+  "registry": "https://github.com/feikerwu/meme",
   "main": "src/index.js",
   "dependencies": {
     "dayjs": "^1.11.10",
